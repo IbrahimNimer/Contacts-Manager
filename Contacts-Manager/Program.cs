@@ -9,9 +9,9 @@
             {
                 "Ibrahim" , "Jafar" , "Moayad"
             };
-            string name = "Abed";
+            string     name = "Abed";
 
-            //Act    
+            //Act       
             List<string> Result = Contacts_Manager.CManager.ContactsManager(Contact, action, name);
 
             for (int i = 0; Result.Count > i; i++)
