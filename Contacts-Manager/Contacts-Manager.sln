@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contacts-Manager", "Contacts-Manager.csproj", "{D447B480-4E72-4C35-BA86-AFB9C6F0720F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contacts-Manager Test", "..\Contacts-Manager Test\Contacts-Manager Test.csproj", "{5769790E-DB3E-46E5-9589-18BA09A33AEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A9204F8F-94FF-4779-8553-C35631B9EFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D447B480-4E72-4C35-BA86-AFB9C6F0720F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D447B480-4E72-4C35-BA86-AFB9C6F0720F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D447B480-4E72-4C35-BA86-AFB9C6F0720F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D447B480-4E72-4C35-BA86-AFB9C6F0720F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5769790E-DB3E-46E5-9589-18BA09A33AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5769790E-DB3E-46E5-9589-18BA09A33AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5769790E-DB3E-46E5-9589-18BA09A33AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5769790E-DB3E-46E5-9589-18BA09A33AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D447B480-4E72-4C35-BA86-AFB9C6F0720F} = {A9204F8F-94FF-4779-8553-C35631B9EFDF}
+		{5769790E-DB3E-46E5-9589-18BA09A33AEE} = {A9204F8F-94FF-4779-8553-C35631B9EFDF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4324A5E4-695E-43EA-A0A0-BFCA4E96C9FD}
+	EndGlobalSection
+EndGlobal
